@@ -2,6 +2,7 @@
 Created on 21/11/2017
 
 @author: 
+XXX: https://code.google.com/codejam/contest/90101/dashboard#s=p2
 '''
 import logging
 from _collections import defaultdict
